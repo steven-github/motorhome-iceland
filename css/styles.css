@@ -32,6 +32,7 @@ a:hover {
 .breadcrumb {
   top: 12.5px;
   left: 102px;
+  z-index: 1;
 }
 .breadcrumb-item,
 .breadcrumb-item.active:hover {
