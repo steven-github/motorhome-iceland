@@ -1,0 +1,168 @@
+.breadcrumb-item {
+  font-size: 12px;
+}
+.nav-item .nav-link,
+.nav-item .dropdown-item {
+  font-size: 18px;
+}
+
+#hero h2 {
+  font-size: 40px;
+}
+
+#articles h3 {
+  font-size: 30px;
+}
+
+#articles p {
+  font-size: 16px;
+}
+
+#form label {
+  font-size: 16px;
+}
+
+#form #right .card:first-child h4 {
+  font-size: 30px;
+}
+#form #right .card:first-child p {
+  font-size: 16px;
+}
+
+#form #right .card:last-child h4 {
+  font-size: 26px;
+}
+#form #right .card:last-child p {
+  font-size: 20px;
+  color: #2c798a;
+}
+
+#form #left .card h4 {
+  font-size: 18px;
+}
+#form #left .card h5 {
+  font-size: 18px;
+}
+#form #left .card p.phone {
+  font-size: 18px;
+  color: #2c798a;
+}
+#form #left .card p.address {
+  font-size: 16px;
+  color: #2c798a !important;
+}
+
+#form input,
+#form textarea {
+  font-size: 12px;
+}
+
+#hero_bottom h2 {
+  font-size: 40px;
+}
+
+footer h3 {
+  font-size: 20px;
+}
+
+footer ul li a {
+  font-size: 14px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  #hero h2 {
+    font-size: 40px;
+  }
+  #form #left .card h4 {
+    font-size: 18px;
+  }
+  #form #left .card h5 {
+    font-size: 18px;
+  }
+  #articles h3 {
+    font-size: 30px;
+  }
+  #hero_bottom h2 {
+    font-size: 40px;
+  }
+  footer ul li a {
+    font-size: 14px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #hero h2 {
+    font-size: 60px;
+  }
+  #form #left .card h4 {
+    font-size: 24px;
+  }
+  #form #left .card h5 {
+    font-size: 20px;
+  }
+  #articles h3 {
+    font-size: 36px;
+  }
+  #hero_bottom h2 {
+    font-size: 60px;
+  }
+  footer ul li a {
+    font-size: 14px;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  #hero h2 {
+    font-size: 60px;
+  }
+  #form #left .card h4 {
+    font-size: 24px;
+  }
+  #form #left .card h5 {
+    font-size: 20px;
+  }
+  #articles h3 {
+    font-size: 36px;
+  }
+  #hero_bottom h2 {
+    font-size: 60px;
+  }
+  footer ul li a {
+    font-size: 14px;
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  #hero h2 {
+    font-size: 70px;
+  }
+  #articles h3 {
+    font-size: 36px;
+  }
+  #hero_bottom h2 {
+    font-size: 80px;
+  }
+  footer ul li a {
+    font-size: 16px;
+  }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  #hero h2 {
+    font-size: 70px;
+  }
+  #articles h3 {
+    font-size: 36px;
+  }
+  #hero_bottom h2 {
+    font-size: 80px;
+  }
+  footer ul li a {
+    font-size: 16px;
+  }
+}

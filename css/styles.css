@@ -48,15 +48,6 @@ a:hover {
 /* breadcrumb */
 
 /* fonts */
-.fs-0 {
-  font-size: 0.75rem !important;
-}
-.fs-4 {
-  font-size: 1.625rem !important;
-}
-.fs-2 {
-  font-size: 2.25rem !important;
-}
 .text-dark {
   color: #173c6a !important;
 }
@@ -183,9 +174,6 @@ input {
   .gap-6 {
     gap: 1.5rem !important;
   }
-  .fs-1 {
-    font-size: 2.5rem !important;
-  }
 }
 
 @media (min-width: 768px) {
@@ -209,9 +197,6 @@ input {
   textarea {
     height: 214px;
   }
-  .fs-1 {
-    font-size: 3.75rem !important;
-  }
 }
 
 @media (min-width: 992px) {
@@ -229,9 +214,6 @@ input {
 @media (min-width: 1200px) {
   .article-img {
     min-height: 388px;
-  }
-  .fs-1 {
-    font-size: 4.375rem !important;
   }
 }
 
